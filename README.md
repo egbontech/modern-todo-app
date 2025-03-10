@@ -1,4 +1,4 @@
-React Todo App
+# React Todo App
 
 A simple and responsive Todo App built with React, TypeScript, and Tailwind CSS. This project is designed for beginners looking to understand React state management and component structure while implementing TypeScript for type safety.
 
